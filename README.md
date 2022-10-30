@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hamzaashaikh" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/hamzaashaikh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamzaashaikh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/hamzaashaikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
