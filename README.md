@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hamza Ashfaq</h1>
-<h3 align="center">A passionate Software Engineer by profession, who brings quality to work by following the industry's best practices. Having around 4 years of professional experience in Node.js, Typescript , React, Java Springboot and Amazon Web Services.</h3>
+<h3 align="center">A passionate Software Engineer by profession, who brings quality to work by following the industry's best practices. Having around 3 years of professional experience in Node.js, Typescript , React, Java Springboot and Amazon Web Services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzicio&label=Profile%20views&color=0e75b6&style=flat" alt="hamzicio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzicio" alt="hamzicio" /></a> </p>
 
-- 🔭 I’m currently working on **Serverless Amazon Web Services**
-
-- 🌱 I’m currently learning **ElasticSearch**
+- 🔭 I’m currently working on **Serverless Architecture**
 
 - 👯 I’m looking to collaborate on **Frontend & Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://www.fiverr.com/teh_developer](https://www.fiverr.com/teh_developer)
 
-- 💬 Ask me about **react , aws , nodejs , typescript , java springboot**
+- 💬 Ask me about **reactja , aws serverless , nodejs , typescript , java springboot**
 
 - 📫 How to reach me **hamza.ashfaque2012@gmail.com**
 
-- ⚡ Fun fact **I am a jolly person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hamzaashaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamzaashaikh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamzaashaikh" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/hamzaashaikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
